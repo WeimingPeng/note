@@ -8,8 +8,8 @@ Email: weimingpeng1717@foxmail.com
 https://blog.csdn.net/happyangry/article/details/86237693
 
 
-###tips:
+### tips:
 __Dear programmer:__
 When I wrote this code, only god and I kenw how it work. Now only god knows it!
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　Good lucky!
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　     Good lucky!
 
