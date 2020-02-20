@@ -280,3 +280,12 @@ lim：\lim
 ≠：\not= 
 ≯：\not> 
 ⊄：\not\subset
+
+- __上加符号运算__
+`$
+\widehat{x}
+$`:$\widehat{x}$
+`$
+\overrightarrow{x}
+$`$\overrightarrow{x}
+$
